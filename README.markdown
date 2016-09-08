@@ -29,16 +29,13 @@ PopularMovie 查看最新热播电影
 ----
 
 主界面
-![Build Status](https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-toprated.png?branch=master)
-![Build Status](https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-popular.png?branch=master)
+![Build Status](https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-toprated.png?branch=master)![Build Status](https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-popular.png?branch=master)
 
 无网络时
 ![Build Status](https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-error.png?branch=master)
 
 设置菜单
-![Build Status](https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-setting.png?branch=master)
-![Build Status](https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-movieSort.png?branch=master)
+![Build Status](https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-setting.png?branch=master)![Build Status](https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-movieSort.png?branch=master)
 
 点击电影海报进入电影详情
-![Build Status](https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-detail.png?branch=master)
-![Build Status](https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-detail02.png?branch=master)
+![Build Status](https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-detail.png?branch=master)![Build Status](https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-detail02.png?branch=master)
