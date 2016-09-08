@@ -27,6 +27,7 @@ PopularMovie 查看最新热播电影
 
 应用演示
 ----
+
 主界面
 https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-toprated.png
 https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-popular.png
