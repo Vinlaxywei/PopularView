@@ -28,7 +28,8 @@ PopularMovie 查看最新热播电影
 应用演示
 ----
 主界面
-![Build Status](https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-toprated.png?branch=master)![Build Status](https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-popular.png?branch=master)
+![Build Status](https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-toprated.png?branch=master)
+(https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-popular.png?branch=master)
 
 无网络时
 ![Build Status](https://github.com/Vinlaxywei/Screen-Shot/blob/master/main-error.png?branch=master)
